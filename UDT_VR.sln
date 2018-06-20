@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{74582CCA-BE99-09FF-BE6A-62F9A201A59A}") = "UDT_VR", "Assembly-CSharp.csproj", "{34BED7E6-6E49-026D-00DB-F1CD282750BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BED7E6-6E49-026D-00DB-F1CD282750BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BED7E6-6E49-026D-00DB-F1CD282750BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BED7E6-6E49-026D-00DB-F1CD282750BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BED7E6-6E49-026D-00DB-F1CD282750BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

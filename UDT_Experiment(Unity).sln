@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9B37432D-525F-E924-2213-21187565C0E5}") = "UDT_Experiment(Unity)", "Assembly-CSharp.csproj", "{6EB65647-524C-79B4-5C97-42F82F05C358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB65647-524C-79B4-5C97-42F82F05C358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB65647-524C-79B4-5C97-42F82F05C358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB65647-524C-79B4-5C97-42F82F05C358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB65647-524C-79B4-5C97-42F82F05C358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
